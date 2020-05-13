@@ -1,6 +1,12 @@
-.wrap {
-	color:grey;
-	font-family:'Gothic L', sans-serif;
-	font-weight:100;
-	font-stretch: ultra-expanded;
+body {
+	color:green;
+	font-weight: normal;
+    font-style: normal;
+	font-family: 'Roboto', sans-serif;
+}
+.title {
+	color:yellow;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+    font-style: normal;
 }
